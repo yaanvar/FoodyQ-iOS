@@ -1,0 +1,18 @@
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/UI/ListsSwitcher.swift":
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListsSwitcher.o"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListsSwitcher.swiftdeps"
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListsSwitcher.swiftconstvalues"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListsSwitcher.dia"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListsSwitcher.d"
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Models/Meal+Mocks.swift":
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal+Mocks.swiftconstvalues"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal+Mocks.swiftdeps"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal+Mocks.dia"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal+Mocks.d"
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal+Mocks.o"
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/ViewModels/ListSwitcherViewModel.swift":
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListSwitcherViewModel.o"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListSwitcherViewModel.swiftdeps"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListSwitcherViewModel.dia"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListSwitcherViewModel.d"
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListSwitcherViewModel.swiftconstvalues"

@@ -1,0 +1,42 @@
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Support/Extensions/View+OnShake.swift":
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/View+OnShake.o"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/View+OnShake.d"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/View+OnShake.dia"
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/View+OnShake.swiftconstvalues"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/View+OnShake.swiftdeps"
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Networking/URLSession+Extension.swift":
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLSession+Extension.swiftdeps"
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLSession+Extension.o"
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLSession+Extension.swiftconstvalues"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLSession+Extension.dia"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLSession+Extension.d"
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Support/Constant/URLFactory.swift":
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLFactory.swiftconstvalues"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLFactory.dia"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLFactory.swiftdeps"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLFactory.d"
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLFactory.o"
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Views/YoutubeVideoView.swift":
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/YoutubeVideoView.swiftconstvalues"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/YoutubeVideoView.d"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/YoutubeVideoView.dia"
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/YoutubeVideoView.o"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/YoutubeVideoView.swiftdeps"
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Views/VideoView.swift":
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/VideoView.d"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/VideoView.swiftdeps"
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/VideoView.o"
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/VideoView.swiftconstvalues"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/VideoView.dia"
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Support/TextFieldModifier.swift":
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TextFieldModifier.d"
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TextFieldModifier.swiftconstvalues"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TextFieldModifier.swiftdeps"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TextFieldModifier.dia"
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TextFieldModifier.o"
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/DerivedSources/GeneratedAssetSymbols.swift":
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps"
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/GeneratedAssetSymbols.dia"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/GeneratedAssetSymbols.d"

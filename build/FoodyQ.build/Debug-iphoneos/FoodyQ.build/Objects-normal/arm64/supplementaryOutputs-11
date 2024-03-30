@@ -1,0 +1,18 @@
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Navigation/FavouritesView.swift":
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesView.o"
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesView.swiftconstvalues"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesView.swiftdeps"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesView.d"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesView.dia"
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/ContentView.swift":
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ContentView.swiftconstvalues"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ContentView.swiftdeps"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ContentView.dia"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ContentView.d"
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ContentView.o"
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/ViewModels/FavouritesViewModel.swift":
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesViewModel.o"
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesViewModel.swiftconstvalues"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesViewModel.d"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesViewModel.swiftdeps"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesViewModel.dia"

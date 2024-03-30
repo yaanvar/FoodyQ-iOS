@@ -1,0 +1,48 @@
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Networking/ArgsQuery.swift":
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsQuery.o"
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsQuery.swiftconstvalues"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsQuery.d"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsQuery.swiftdeps"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsQuery.dia"
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Modals/ModalView.swift":
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ModalView.o"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ModalView.swiftdeps"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ModalView.d"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ModalView.dia"
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ModalView.swiftconstvalues"
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Buttons/AngularButton.swift":
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/AngularButton.o"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/AngularButton.d"
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/AngularButton.swiftconstvalues"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/AngularButton.swiftdeps"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/AngularButton.dia"
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Buttons/CloseButton.swift":
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CloseButton.swiftdeps"
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CloseButton.o"
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CloseButton.swiftconstvalues"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CloseButton.dia"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CloseButton.d"
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/UI/CacheAsyncImage.swift":
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CacheAsyncImage.dia"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CacheAsyncImage.d"
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CacheAsyncImage.swiftconstvalues"
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CacheAsyncImage.o"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CacheAsyncImage.swiftdeps"
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Models/Category.swift":
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Category.swiftdeps"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Category.d"
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Category.o"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Category.dia"
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Category.swiftconstvalues"
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Networking/ArgsPath.swift":
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsPath.swiftconstvalues"
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsPath.dia"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsPath.swiftdeps"
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsPath.o"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsPath.d"
+"/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/UI/CheckboxField.swift":
+  diagnostics: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CheckboxField.dia"
+  dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CheckboxField.d"
+  object: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CheckboxField.o"
+  const-values: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CheckboxField.swiftconstvalues"
+  swift-dependencies: "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CheckboxField.swiftdeps"

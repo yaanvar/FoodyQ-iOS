@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>ArgsInterpreter Structure Reference</title>
+    <link rel="stylesheet" type="text/css" href="../../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../../js/jquery.min.js" defer></script>
+    <script src="../../js/jazzy.js" defer></script>
+    
+    <script src="../../js/lunr.min.js" defer></script>
+    <script src="../../js/typeahead.jquery.js" defer></script>
+    <script src="../../js/jazzy.search.js" defer></script>
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Struct/ArgsInterpreter" class="dashAnchor"></a>
+    <a title="ArgsInterpreter Structure Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../../index.html"> Docs</a> (100% documented)</p>
+        <div class="header-right">
+          <form role="search" action="../../search.json">
+            <input type="text" placeholder="Search documentation" data-typeahead>
+          </form>
+        </div>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../../index.html"> Reference</a>
+        <img id="carat" src="../../img/carat.png" alt=""/>
+        ArgsInterpreter Structure Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../../Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../Classes/FavouritesIdsStorage.html">FavouritesIdsStorage</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/FavouritesViewModel.html">FavouritesViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/GenericCodingKeys.html">GenericCodingKeys</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/HomeViewModel.html">HomeViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/IconSettings.html">IconSettings</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/ImageCache.html">ImageCache</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/ListSwitcherViewModel.html">ListSwitcherViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/MealViewModel.html">MealViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/PersistentStorage.html">PersistentStorage</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes.html#/s:6FoodyQ19ResourceBundleClass33_36E18E1544DE799989761F24115FF062LLC">ResourceBundleClass</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/SearchViewModel.html">SearchViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/SettingsViewModel.html">SettingsViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/ShakeViewModel.html">ShakeViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/TabBarViewModels.html">TabBarViewModels</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Classes/UIViewModel.html">UIViewModel</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../../Global%20Variables.html">Global Variables</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../Global%20Variables.html#/resourceBundle">resourceBundle</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Global%20Variables.html#/s:6FoodyQ14resourceBundle33_36E18E1544DE799989761F24115FF062LLSo8NSBundleCvp">resourceBundle</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../../Enums.html">Enumerations</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../Enums/HTTPMethod.html">HTTPMethod</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Enums/Icons.html">Icons</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Enums/InstructionsParser.html">InstructionsParser</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Enums/Lists.html">Lists</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Enums/NavigationTitle.html">NavigationTitle</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Enums/Tab.html">Tab</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Enums/URLFactory.html">URLFactory</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../../Extensions.html">Extensions</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../Extensions/Animation.html">Animation</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Extensions/AppKit.html">AppKit</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Extensions/AppKit.html#/NSImage">– NSImage</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Extensions/EnvironmentValues.html">EnvironmentValues</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Extensions/Notification.html">Notification</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Extensions/Notification/Name.html">– Name</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Extensions/String.html">String</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Extensions/SwiftUI.html">SwiftUI</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Extensions/SwiftUI/Color.html">– Color</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Extensions/SwiftUI/Image.html">– Image</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Extensions/UIKit.UIColor.html">UIKit.UIColor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Extensions/UIKit.UIImage.html">UIKit.UIImage</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Extensions/UIWindow.html">UIWindow</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Extensions/URLSession.html">URLSession</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Extensions/View.html">View</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../../Functions.html">Functions</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../Functions.html#/s:6FoodyQ10decodeJSONyx10Foundation4DataVKSeRzlF">decodeJSON(_:)</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Functions.html#/s:6FoodyQ9queryItem33_9CED6706C1D68EEC57778DE48CA2E913LL3for5valueSay10Foundation08URLQueryC0VGSS_SStF">queryItem(for:value:)</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../../Protocols.html">Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../Protocols/ArgsPath.html">ArgsPath</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Protocols/ArgsQuery.html">ArgsQuery</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Protocols/KeyValueStorage.html">KeyValueStorage</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Protocols.html#/_ACResourceInitProtocol">_ACResourceInitProtocol</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../../Structs.html">Structures</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../Structs/AngularButton.html">AngularButton</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/AngularButton_Previews.html">AngularButton_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/BackgroundColor.html">BackgroundColor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/BackgroundStyle.html">BackgroundStyle</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/CacheAsyncImage.html">CacheAsyncImage</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/Categories.html">Categories</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/Categories/CodingKeys.html">– CodingKeys</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/Category.html">Category</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/Category/RequiredCodingKeys.html">– RequiredCodingKeys</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/Category/OptionalCodingKeys.html">– OptionalCodingKeys</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/CheckboxField.html">CheckboxField</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/CirclePreferenceKey.html">CirclePreferenceKey</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/CloseButton.html">CloseButton</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/CloseButton_Previews.html">CloseButton_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/ColorResource.html">ColorResource</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/ContentView.html">ContentView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/ContentView_Previews.html">ContentView_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/CustomCurveShape.html">CustomCurveShape</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/CustomSegmentedControl.html">CustomSegmentedControl</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/ExploreView_Previews.html">ExploreView_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/FavoritesView.html">FavoritesView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/FavoritesView_Previews.html">FavoritesView_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/FeaturedMeal.html">FeaturedMeal</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/FeaturedMeal_Previews.html">FeaturedMeal_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/FoodyQApp.html">FoodyQApp</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/FullIngredient.html">FullIngredient</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/FullIngredient/RequiredCodingKeys.html">– RequiredCodingKeys</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/FullIngredient/OptionalCodingKeys.html">– OptionalCodingKeys</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/FullIngredients.html">FullIngredients</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/FullIngredients/CodingKeys.html">– CodingKeys</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/HTTPError.html">HTTPError</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/HeartButton.html">HeartButton</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/HeartButton_Previews.html">HeartButton_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/HomeView.html">HomeView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/HomeView_Previews.html">HomeView_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/Icon.html">Icon</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/IconRow.html">IconRow</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/IconsListView.html">IconsListView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/ImageCacheKey.html">ImageCacheKey</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/ImageResource.html">ImageResource</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/Ingredient.html">Ingredient</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/IngredientUIData.html">IngredientUIData</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/IngredientsUIData.html">IngredientsUIData</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/InvalidURL.html">InvalidURL</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/ListsSwitcher.html">ListsSwitcher</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/Meal.html">Meal</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/Meal/RequiredCodingKeys.html">– RequiredCodingKeys</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/Meal/OptionalCodingKeys.html">– OptionalCodingKeys</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/MealItem.html">MealItem</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/MealItem_Previews.html">MealItem_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/MealView.html">MealView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/MealView/CloseAction.html">– CloseAction</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/MealView_Previews.html">MealView_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/Meals.html">Meals</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/Meals/CodingKeys.html">– CodingKeys</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/ModalView.html">ModalView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/ModalView_Previews.html">ModalView_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/NavigationBar.html">NavigationBar</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/NavigationBar_Previews.html">NavigationBar_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/NetworkService.html">NetworkService</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/OnAppearedModifier.html">OnAppearedModifier</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/OutlineModifier.html">OutlineModifier</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/OutlineOverlay.html">OutlineOverlay</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/OutlineVerticalModifier.html">OutlineVerticalModifier</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/PlayButtonView.html">PlayButtonView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/PlayButton_Previews.html">PlayButton_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/PlayShape.html">PlayShape</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/Remote.html">Remote</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/RemoteSpec.html">RemoteSpec</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/RemoteSpec/Defaults.html">– Defaults</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/RemoteSpec/ArgsInterpreter.html">– ArgsInterpreter</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/RequestFetcher.html">RequestFetcher</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/RequestParts.html">RequestParts</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/RowMeal.html">RowMeal</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/RowMeal_Previews.html">RowMeal_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/ScrollPreferenceKey.html">ScrollPreferenceKey</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/SearchBar.html">SearchBar</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/SearchBar_Previews.html">SearchBar_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/SearchView.html">SearchView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/SettingsView.html">SettingsView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/SettingsView_Previews.html">SettingsView_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/ShakeDetector.html">ShakeDetector</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/ShakeView.html">ShakeView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/SignInView.html">SignInView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/SignUpView.html">SignUpView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/SigninView_Previews.html">SigninView_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/SignupView_Previews.html">SignupView_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/SlideFadeIn.html">SlideFadeIn</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/SplashScreen.html">SplashScreen</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/SplashScreen_Previews.html">SplashScreen_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/TabBar.html">TabBar</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/TabBar_Previews.html">TabBar_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/TabItem.html">TabItem</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/TextFieldModifier.html">TextFieldModifier</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/VideoView.html">VideoView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/VideoView_Previews.html">VideoView_Previews</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Structs/YoutubeVideoView.html">YoutubeVideoView</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../../Typealiases.html">Type Aliases</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../../Typealiases.html#/s:6FoodyQ11DataFetchera">DataFetcher</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../../Typealiases.html#/s:6FoodyQ9HTTPQuerya">HTTPQuery</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>ArgsInterpreter</h1>
+              <div class="declaration">
+                <div class="language">
+                  
+                  <pre class="highlight swift"><code><span class="kd">struct</span> <span class="kt">ArgsInterpreter</span></code></pre>
+
+                </div>
+              </div>
+            
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:6FoodyQ10RemoteSpecV15ArgsInterpreterV4impl33_77625273D8B86D2005687F24EAE420C1LLyAA12RequestPartsVxYaKcvp"></a>
+                    <a name="//apple_ref/swift/Property/impl" class="dashAnchor"></a>
+                    <a class="token" href="#/s:6FoodyQ10RemoteSpecV15ArgsInterpreterV4impl33_77625273D8B86D2005687F24EAE420C1LLyAA12RequestPartsVxYaKcvp">impl</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">private</span> <span class="k">var</span> <span class="nv">impl</span><span class="p">:</span> <span class="p">(</span><span class="kt">Args</span><span class="p">)</span> <span class="k">async</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt"><a href="../../Structs/RequestParts.html">RequestParts</a></span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:6FoodyQ10RemoteSpecV15ArgsInterpreterV4implAEyxq_q0__GAA12RequestPartsVxYaKc_tcfc"></a>
+                    <a name="//apple_ref/swift/Method/init(impl:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:6FoodyQ10RemoteSpecV15ArgsInterpreterV4implAEyxq_q0__GAA12RequestPartsVxYaKc_tcfc">init(impl:<wbr>)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="nf">init</span><span class="p">(</span><span class="nv">impl</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="p">(</span><span class="kt">Args</span><span class="p">)</span> <span class="k">async</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt"><a href="../../Structs/RequestParts.html">RequestParts</a></span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:6FoodyQ10RemoteSpecV15ArgsInterpreterV14callAsFunctionyAA12RequestPartsVxYaKF"></a>
+                    <a name="//apple_ref/swift/Method/callAsFunction(_:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:6FoodyQ10RemoteSpecV15ArgsInterpreterV14callAsFunctionyAA12RequestPartsVxYaKF">callAsFunction(_:<wbr>)</a>
+                    </code>
+                      <span class="declaration-note">
+                        Asynchronous
+                      </span>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">callAsFunction</span><span class="p">(</span><span class="n">_</span> <span class="nv">args</span><span class="p">:</span> <span class="kt">Args</span><span class="p">)</span> <span class="k">async</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt"><a href="../../Structs/RequestParts.html">RequestParts</a></span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2024 <a class="link" href="" target="_blank" rel="external noopener"></a>. All rights reserved. (Last updated: 2024-03-30)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external noopener">jazzy ♪♫ v0.14.4</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external noopener">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</html>

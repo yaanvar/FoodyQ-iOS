@@ -1,0 +1,768 @@
+{
+  "" : {
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FoodyQ-master.dia",
+    "emit-module-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FoodyQ-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FoodyQ-master-emit-module.dia",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FoodyQ-master.swiftdeps"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Environment/ImageCacheKey.swift.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ImageCacheKey.swift.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ImageCacheKey.swift.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ImageCacheKey.swift.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ImageCacheKey.swift.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ImageCacheKey.swift.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ImageCacheKey.swift.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ImageCacheKey.swift.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ImageCacheKey.swift~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/FoodyQApp.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FoodyQApp.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FoodyQApp.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FoodyQApp.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FoodyQApp.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FoodyQApp.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FoodyQApp.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FoodyQApp.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FoodyQApp~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Models/Category.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Category.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Category.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Category.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Category.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Category.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Category.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Category.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Category~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Models/Favourites/FavouriteStorage.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouriteStorage.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouriteStorage.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouriteStorage.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouriteStorage.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouriteStorage.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouriteStorage.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouriteStorage.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouriteStorage~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Models/ImageCache.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ImageCache.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ImageCache.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ImageCache.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ImageCache.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ImageCache.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ImageCache.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ImageCache.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ImageCache~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Models/Ingredient.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ingredient.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ingredient.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ingredient.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ingredient.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ingredient.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ingredient.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ingredient.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ingredient~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Models/Keys.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Keys.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Keys.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Keys.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Keys.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Keys.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Keys.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Keys.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Keys~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Models/ListStorage.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListStorage.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListStorage.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListStorage.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListStorage.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListStorage.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListStorage.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListStorage.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListStorage~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Models/Meal.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Models/Meal+Mocks.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal+Mocks.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal+Mocks.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal+Mocks.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal+Mocks.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal+Mocks.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal+Mocks.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal+Mocks.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Meal+Mocks~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Networking/ArgsPath.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsPath.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsPath.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsPath.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsPath.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsPath.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsPath.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsPath.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsPath~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Networking/ArgsQuery.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsQuery.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsQuery.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsQuery.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsQuery.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsQuery.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsQuery.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsQuery.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ArgsQuery~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Networking/DataFetcher.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/DataFetcher.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/DataFetcher.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/DataFetcher.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/DataFetcher.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/DataFetcher.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/DataFetcher.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/DataFetcher.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/DataFetcher~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Networking/HTTPError.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPError.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPError.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPError.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPError.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPError.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPError.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPError.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPError~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Networking/HTTPMethod.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPMethod.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPMethod.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPMethod.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPMethod.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPMethod.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPMethod.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPMethod.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPMethod~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Networking/HTTPQuery.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPQuery.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPQuery.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPQuery.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPQuery.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPQuery.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPQuery.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPQuery.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HTTPQuery~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Networking/Remote.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Remote.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Remote.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Remote.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Remote.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Remote.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Remote.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Remote.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Remote~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Networking/RemoteSpec.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RemoteSpec.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RemoteSpec.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RemoteSpec.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RemoteSpec.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RemoteSpec.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RemoteSpec.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RemoteSpec.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RemoteSpec~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Networking/RequestFetcher.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RequestFetcher.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RequestFetcher.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RequestFetcher.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RequestFetcher.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RequestFetcher.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RequestFetcher.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RequestFetcher.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RequestFetcher~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Networking/URLSession+Extension.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLSession+Extension.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLSession+Extension.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLSession+Extension.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLSession+Extension.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLSession+Extension.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLSession+Extension.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLSession+Extension.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLSession+Extension~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Service/NetworkService.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Service/NetworkService+Factory.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService+Factory.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService+Factory.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService+Factory.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService+Factory.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService+Factory.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService+Factory.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService+Factory.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService+Factory~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Service/NetworkService+Mock.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService+Mock.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService+Mock.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService+Mock.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService+Mock.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService+Mock.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService+Mock.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService+Mock.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NetworkService+Mock~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Services/RecipeParser.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RecipeParser.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RecipeParser.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RecipeParser.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RecipeParser.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RecipeParser.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RecipeParser.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RecipeParser.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RecipeParser~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Storage/KeyValueStorage.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/KeyValueStorage.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/KeyValueStorage.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/KeyValueStorage.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/KeyValueStorage.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/KeyValueStorage.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/KeyValueStorage.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/KeyValueStorage.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/KeyValueStorage~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Support/Constant/URLFactory.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLFactory.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLFactory.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLFactory.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLFactory.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLFactory.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLFactory.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLFactory.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/URLFactory~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Support/Extensions/Ext+YoutubeLink.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ext+YoutubeLink.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ext+YoutubeLink.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ext+YoutubeLink.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ext+YoutubeLink.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ext+YoutubeLink.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ext+YoutubeLink.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ext+YoutubeLink.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ext+YoutubeLink~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Support/Extensions/Notification+Name.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Notification+Name.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Notification+Name.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Notification+Name.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Notification+Name.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Notification+Name.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Notification+Name.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Notification+Name.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Notification+Name~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Support/Extensions/UIWindow+MotionEnd.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/UIWindow+MotionEnd.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/UIWindow+MotionEnd.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/UIWindow+MotionEnd.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/UIWindow+MotionEnd.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/UIWindow+MotionEnd.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/UIWindow+MotionEnd.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/UIWindow+MotionEnd.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/UIWindow+MotionEnd~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Support/Extensions/View+OnShake.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/View+OnShake.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/View+OnShake.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/View+OnShake.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/View+OnShake.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/View+OnShake.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/View+OnShake.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/View+OnShake.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/View+OnShake~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Support/Modifiers.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Modifiers.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Modifiers.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Modifiers.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Modifiers.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Modifiers.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Modifiers.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Modifiers.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Modifiers~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Support/OnAppearedOnceModifier.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/OnAppearedOnceModifier.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/OnAppearedOnceModifier.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/OnAppearedOnceModifier.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/OnAppearedOnceModifier.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/OnAppearedOnceModifier.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/OnAppearedOnceModifier.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/OnAppearedOnceModifier.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/OnAppearedOnceModifier~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Support/TextFieldModifier.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TextFieldModifier.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TextFieldModifier.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TextFieldModifier.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TextFieldModifier.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TextFieldModifier.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TextFieldModifier.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TextFieldModifier.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TextFieldModifier~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/ViewModels/FavouritesViewModel.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesViewModel.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesViewModel.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesViewModel.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesViewModel.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesViewModel.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesViewModel.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesViewModel.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesViewModel~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/ViewModels/HomeViewModel.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HomeViewModel.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HomeViewModel.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HomeViewModel.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HomeViewModel.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HomeViewModel.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HomeViewModel.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HomeViewModel.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HomeViewModel~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/ViewModels/ListSwitcherViewModel.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListSwitcherViewModel.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListSwitcherViewModel.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListSwitcherViewModel.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListSwitcherViewModel.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListSwitcherViewModel.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListSwitcherViewModel.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListSwitcherViewModel.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListSwitcherViewModel~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/ViewModels/MealViewModel.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealViewModel.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealViewModel.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealViewModel.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealViewModel.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealViewModel.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealViewModel.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealViewModel.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealViewModel~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/ViewModels/SearchViewModel.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchViewModel.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchViewModel.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchViewModel.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchViewModel.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchViewModel.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchViewModel.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchViewModel.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchViewModel~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/ViewModels/SettingsViewModel.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SettingsViewModel.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SettingsViewModel.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SettingsViewModel.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SettingsViewModel.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SettingsViewModel.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SettingsViewModel.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SettingsViewModel.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SettingsViewModel~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/ViewModels/ShakeViewModel.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ShakeViewModel.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ShakeViewModel.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ShakeViewModel.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ShakeViewModel.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ShakeViewModel.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ShakeViewModel.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ShakeViewModel.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ShakeViewModel~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/ViewModels/UIViewModel.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/UIViewModel.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/UIViewModel.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/UIViewModel.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/UIViewModel.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/UIViewModel.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/UIViewModel.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/UIViewModel.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/UIViewModel~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Bars/NavigationBar.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NavigationBar.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NavigationBar.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NavigationBar.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NavigationBar.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NavigationBar.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NavigationBar.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NavigationBar.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/NavigationBar~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Bars/SearchBar.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchBar.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchBar.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchBar.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchBar.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchBar.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchBar.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchBar.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchBar~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Bars/TabBar.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TabBar.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TabBar.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TabBar.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TabBar.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TabBar.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TabBar.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TabBar.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TabBar~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Buttons/AngularButton.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/AngularButton.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/AngularButton.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/AngularButton.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/AngularButton.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/AngularButton.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/AngularButton.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/AngularButton.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/AngularButton~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Buttons/CloseButton.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CloseButton.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CloseButton.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CloseButton.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CloseButton.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CloseButton.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CloseButton.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CloseButton.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CloseButton~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Buttons/HeartButton.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HeartButton.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HeartButton.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HeartButton.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HeartButton.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HeartButton.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HeartButton.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HeartButton.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HeartButton~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Buttons/PlayButtonView.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/PlayButtonView.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/PlayButtonView.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/PlayButtonView.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/PlayButtonView.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/PlayButtonView.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/PlayButtonView.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/PlayButtonView.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/PlayButtonView~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/ContentView.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/MealViews/FeaturedMeal.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FeaturedMeal.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FeaturedMeal.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FeaturedMeal.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FeaturedMeal.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FeaturedMeal.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FeaturedMeal.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FeaturedMeal.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FeaturedMeal~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/MealViews/MealItem.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealItem.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealItem.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealItem.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealItem.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealItem.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealItem.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealItem.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealItem~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/MealViews/MealView.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealView.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealView.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealView.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealView.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealView.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealView.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealView.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/MealView~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/MealViews/RowMeal.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RowMeal.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RowMeal.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RowMeal.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RowMeal.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RowMeal.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RowMeal.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RowMeal.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/RowMeal~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Modals/ModalView.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ModalView.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ModalView.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ModalView.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ModalView.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ModalView.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ModalView.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ModalView.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ModalView~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Modals/SignInView.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SignInView.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SignInView.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SignInView.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SignInView.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SignInView.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SignInView.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SignInView.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SignInView~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Modals/SignUpView.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SignUpView.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SignUpView.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SignUpView.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SignUpView.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SignUpView.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SignUpView.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SignUpView.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SignUpView~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Navigation/FavouritesView.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesView.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesView.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesView.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesView.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesView.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesView.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesView.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/FavouritesView~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Navigation/HomeView.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Navigation/SearchView.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchView.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchView.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchView.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchView.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchView.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchView.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchView.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SearchView~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Navigation/SettingsView.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Navigation/ShakeView.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ShakeView.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ShakeView.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ShakeView.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ShakeView.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ShakeView.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ShakeView.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ShakeView.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ShakeView~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/UI/CacheAsyncImage.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CacheAsyncImage.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CacheAsyncImage.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CacheAsyncImage.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CacheAsyncImage.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CacheAsyncImage.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CacheAsyncImage.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CacheAsyncImage.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CacheAsyncImage~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/UI/CheckboxField.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CheckboxField.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CheckboxField.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CheckboxField.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CheckboxField.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CheckboxField.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CheckboxField.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CheckboxField.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CheckboxField~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/UI/Constants.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Constants.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Constants.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Constants.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Constants.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Constants.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Constants.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Constants.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Constants~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/UI/CustomCurveShape.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CustomCurveShape.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CustomCurveShape.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CustomCurveShape.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CustomCurveShape.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CustomCurveShape.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CustomCurveShape.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CustomCurveShape.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CustomCurveShape~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/UI/CustomSegmentedControl.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CustomSegmentedControl.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CustomSegmentedControl.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CustomSegmentedControl.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CustomSegmentedControl.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CustomSegmentedControl.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CustomSegmentedControl.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CustomSegmentedControl.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/CustomSegmentedControl~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/UI/Ext+Animation.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ext+Animation.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ext+Animation.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ext+Animation.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ext+Animation.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ext+Animation.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ext+Animation.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ext+Animation.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/Ext+Animation~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/UI/IconListView.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/IconListView.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/IconListView.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/IconListView.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/IconListView.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/IconListView.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/IconListView.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/IconListView.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/IconListView~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/UI/IconSettings.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/IconSettings.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/IconSettings.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/IconSettings.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/IconSettings.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/IconSettings.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/IconSettings.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/IconSettings.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/IconSettings~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/UI/ListsSwitcher.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListsSwitcher.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListsSwitcher.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListsSwitcher.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListsSwitcher.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListsSwitcher.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListsSwitcher.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListsSwitcher.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/ListsSwitcher~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/UI/PlayShape.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/PlayShape.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/PlayShape.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/PlayShape.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/PlayShape.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/PlayShape.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/PlayShape.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/PlayShape.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/PlayShape~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/UI/SplashScreen.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SplashScreen.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SplashScreen.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SplashScreen.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SplashScreen.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SplashScreen.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SplashScreen.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SplashScreen.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/SplashScreen~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/UI/TabItem.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TabItem.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TabItem.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TabItem.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TabItem.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TabItem.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TabItem.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TabItem.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/TabItem~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Views/VideoView.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/VideoView.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/VideoView.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/VideoView.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/VideoView.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/VideoView.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/VideoView.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/VideoView.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/VideoView~partial.swiftmodule"
+  },
+  "/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Views/Views/YoutubeVideoView.swift" : {
+    "const-values" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/YoutubeVideoView.swiftconstvalues",
+    "dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/YoutubeVideoView.d",
+    "diagnostics" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/YoutubeVideoView.dia",
+    "index-unit-output-path" : "/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/YoutubeVideoView.o",
+    "llvm-bc" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/YoutubeVideoView.bc",
+    "object" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/YoutubeVideoView.o",
+    "swift-dependencies" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/YoutubeVideoView.swiftdeps",
+    "swiftmodule" : "/Users/a.rakhimov/Developer/FoodyQ-iOS/build/FoodyQ.build/Debug-iphoneos/FoodyQ.build/Objects-normal/arm64/YoutubeVideoView~partial.swiftmodule"
+  }
+}
