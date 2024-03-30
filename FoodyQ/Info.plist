@@ -6,38 +6,20 @@
 	<dict>
 		<key>CFBundleAlternateIcons</key>
 		<dict>
-			<key>Dish</key>
+			<key>Tomato Red</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>Dish</string>
+					<string>/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Icons/Tomato Red.png</string>
 				</array>
 				<key>UIPrerenderedIcon</key>
 				<false/>
 			</dict>
-			<key>Fruits</key>
+			<key>Sip some soup</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>Fruits</string>
-				</array>
-				<key>UIPrerenderedIcon</key>
-				<false/>
-			</dict>
-			<key>Pancake</key>
-			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>Pancake</string>
-				</array>
-				<key>UIPrerenderedIcon</key>
-				<false/>
-			</dict>
-			<key>Ramen</key>
-			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>Ramen</string>
+					<string>/Users/a.rakhimov/Developer/FoodyQ-iOS/FoodyQ/Icons/Sip some soup.png</string>
 				</array>
 				<key>UIPrerenderedIcon</key>
 				<false/>

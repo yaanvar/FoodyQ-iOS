@@ -35,9 +35,7 @@
 		5517CECDF89BF4149DFDC919 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C290B7F6F34B838FD736D28D /* HomeViewModel.swift */; };
 		58C43A07C93BED21390A8AFF /* YoutubeVideoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6984DA25A4F8267F6161E9E7 /* YoutubeVideoView.swift */; };
 		5D08800A00E7A1EC2F1729F7 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044162573EA398C175188393 /* Meal.swift */; };
-		5F6063DDF63B24E93E384C77 /* Fruits.png in Resources */ = {isa = PBXBuildFile; fileRef = 50C21455EAE5D7DFEF38344B /* Fruits.png */; };
 		62395A1EBBA2C441DF9493F7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1C1034B46994E5A9C2BA049 /* ContentView.swift */; };
-		639BBB5F1A49E72CB7F9A73E /* Dish.png in Resources */ = {isa = PBXBuildFile; fileRef = 86BDC66FB6D0AC06EEDDCA6F /* Dish.png */; };
 		66B244334674DA6EDFB22AB9 /* NavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = D116EE7B0149907E8F201DC4 /* NavigationBar.swift */; };
 		68A6548445BA659BCD8D3699 /* ShakeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247AB3A4CC07D9E10EAE2499 /* ShakeViewModel.swift */; };
 		6EE40987CFA14D8ACBD86ECB /* Keys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 410C5E13FDA0A0FFB4968CFA /* Keys.swift */; };
@@ -51,7 +49,6 @@
 		949AD66700464EA98DEF69B7 /* RowMeal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C32192AF3297E6EE2DC3928 /* RowMeal.swift */; };
 		9B19E102C7D95B2FD83C12D4 /* CheckboxField.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBEC7BFD4D788B6247F159CC /* CheckboxField.swift */; };
 		9EA8E1027116048B9F6362EE /* SettingsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA0F5FC94EA1B2FEDC49ADE /* SettingsViewModel.swift */; };
-		A8ABCCAB9923A46C7AE4AED8 /* Pancake.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A73AB2A78AC2865ADDD8334 /* Pancake.png */; };
 		AA3C14F865A4B9838DCBE7A4 /* HTTPMethod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FB317601D48B7B9627E8A0D /* HTTPMethod.swift */; };
 		ABBD56AC5B9FECCA9203239B /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E586D0BD4E8B1E33E9024B5C /* SettingsView.swift */; };
 		ADE8C0008175B84659844C51 /* URLSession+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1FA390B0003B999D94613AB /* URLSession+Extension.swift */; };
@@ -76,7 +73,6 @@
 		D80C18C7E256A48305F04AA3 /* Ext+Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 701518EDA475656A87E44174 /* Ext+Animation.swift */; };
 		DCB8508A1CF50843C8718720 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FFF8A7AF89157C9C701C9D9 /* HomeView.swift */; };
 		DDFAB76E1DA82D8810FF04AF /* MealView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A695A7F1FF993DEFA4A3ECFB /* MealView.swift */; };
-		DE279B4A2B76208AAD5EBFCB /* Ramen.png in Resources */ = {isa = PBXBuildFile; fileRef = 12E8CA383F5BD861FFD67BA5 /* Ramen.png */; };
 		E13142EC9D6F337EC4723024 /* RecipeParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E22B2D32F4B8EB8362B307E /* RecipeParser.swift */; };
 		E2358AD3A4E49713C71D20A2 /* CacheAsyncImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F071FC7E3202E58E49CC3B /* CacheAsyncImage.swift */; };
 		E2FD832FDD150FEEC2D6B4C3 /* UIWindow+MotionEnd.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0A8B642307D361B53ECDB10 /* UIWindow+MotionEnd.swift */; };
@@ -95,7 +91,6 @@
 		044162573EA398C175188393 /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 		0D29CCFAE6473D3D17627354 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		12DE7ABCBC0BF6F14436B271 /* KeyValueStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyValueStorage.swift; sourceTree = "<group>"; };
-		12E8CA383F5BD861FFD67BA5 /* Ramen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ramen.png; sourceTree = "<group>"; };
 		150EBA9E5FF353D751EF00A1 /* CustomCurveShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCurveShape.swift; sourceTree = "<group>"; };
 		19F604BC3AE1FF9C7825B3CB /* ShakeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShakeView.swift; sourceTree = "<group>"; };
 		1CB3BA50694A2BE876238BFB /* View+OnShake.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+OnShake.swift"; sourceTree = "<group>"; };
@@ -114,7 +109,6 @@
 		4766BB3DFB9D1F17E352D71A /* RemoteSpec.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteSpec.swift; sourceTree = "<group>"; };
 		4C4A2B845A37FFA1714D8D22 /* ListsSwitcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListsSwitcher.swift; sourceTree = "<group>"; };
 		4EA0F5FC94EA1B2FEDC49ADE /* SettingsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewModel.swift; sourceTree = "<group>"; };
-		50C21455EAE5D7DFEF38344B /* Fruits.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Fruits.png; sourceTree = "<group>"; };
 		524EE1F7BD0BDD7E047D1E91 /* HTTPQuery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPQuery.swift; sourceTree = "<group>"; };
 		543ED25395594F38A750BBA9 /* HeartButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartButton.swift; sourceTree = "<group>"; };
 		5449CADA5371130D796FF9F1 /* MealItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealItem.swift; sourceTree = "<group>"; };
@@ -134,10 +128,8 @@
 		7FB317601D48B7B9627E8A0D /* HTTPMethod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPMethod.swift; sourceTree = "<group>"; };
 		83750EE7B9B9AAE37ECD297C /* SearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewModel.swift; sourceTree = "<group>"; };
 		84F071FC7E3202E58E49CC3B /* CacheAsyncImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CacheAsyncImage.swift; sourceTree = "<group>"; };
-		86BDC66FB6D0AC06EEDDCA6F /* Dish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Dish.png; sourceTree = "<group>"; };
 		884EAFFF19D651EF0714BD45 /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
 		8A78AEE2C9615AA1984FC29D /* IconListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconListView.swift; sourceTree = "<group>"; };
-		9A73AB2A78AC2865ADDD8334 /* Pancake.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pancake.png; sourceTree = "<group>"; };
 		9E8E2545224523B34D7D55BD /* FavouritesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouritesView.swift; sourceTree = "<group>"; };
 		A1C1034B46994E5A9C2BA049 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A695A7F1FF993DEFA4A3ECFB /* MealView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealView.swift; sourceTree = "<group>"; };
@@ -408,10 +400,6 @@
 		CA4C600E4019878FF994B232 /* Icons */ = {
 			isa = PBXGroup;
 			children = (
-				86BDC66FB6D0AC06EEDDCA6F /* Dish.png */,
-				50C21455EAE5D7DFEF38344B /* Fruits.png */,
-				9A73AB2A78AC2865ADDD8334 /* Pancake.png */,
-				12E8CA383F5BD861FFD67BA5 /* Ramen.png */,
 			);
 			path = Icons;
 			sourceTree = "<group>";
@@ -506,11 +494,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F999C307CFB1016EC13A1BEF /* Assets.xcassets in Resources */,
-				639BBB5F1A49E72CB7F9A73E /* Dish.png in Resources */,
-				5F6063DDF63B24E93E384C77 /* Fruits.png in Resources */,
-				A8ABCCAB9923A46C7AE4AED8 /* Pancake.png in Resources */,
 				859CED70FCC41228EFD16806 /* Preview Assets.xcassets in Resources */,
-				DE279B4A2B76208AAD5EBFCB /* Ramen.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

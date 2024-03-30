@@ -13,7 +13,6 @@ struct IconsListView: View {
                             .tag(index)
                     }
                 }
-                .listRowBackground(Color("tabbar"))
                 .pickerStyle(.inline)
                 .listRowSeparator(.automatic)
                 .onChange(of: iconSettings.iconIndex) { newIndex in
