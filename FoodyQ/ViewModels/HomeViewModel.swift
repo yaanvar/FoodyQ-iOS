@@ -1,0 +1,37 @@
+import Foundation
+
+final class HomeViewModel: ObservableObject {
+    @Published private(set) var featuredMeals: [Meal] = []
+    @Published private(set) var meals: [Meal] = []
+
+    let networkService: NetworkService
+
+    init(networkService: NetworkService) {
+        self.networkService = networkService
+    }
+
+    func fetchMeals() {
+        Task {
+            await fetchFeatured()
+            await fetchMain()
+        }
+    }
+
+    @MainActor
+    private func fetchFeatured() async {
+        do {
+            featuredMeals = try await networkService.latestMeals().meals
+        } catch {
+            return
+        }
+    }
+
+    @MainActor
+    private func fetchMain() async {
+        do {
+            meals = try await networkService.setRandomMeals().meals
+        } catch {
+            return
+        }
+    }
+}
